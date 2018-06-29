@@ -1,0 +1,220 @@
+$oid:$ oid
+_id:_id
+3d-teknik:3D technology
+3g (umts):3g (umts)
+3g:3g
+4g lte:4g lte
+allmänt:generally
+anslutningar:connections
+antal celler:number of cells
+antal hårddiskar:number of hard disks
+antal kameror:number of cameras
+antal kärnor:number of cores
+antal tryckpunkter:number of pressure points
+användarhandbok:user manual
+autofokus:AF
+availability:availability
+bakbelysning:backlighting
+bakgrundsbelyst tangentbord:backlit keyboard
+bashastighet:base speed
+batteri:Battery
+batterikapacitet:battery capacity
+batterityp:battery type
+bildformat:aspect ratio
+bildskärm:screen
+bluetooth:bluetooth
+bluetooth-version:Bluetooth version
+brand:brand
+brännarprogram:Burn
+bredd:width
+bruksanvisning:manual
+bruksanvisningar och dokument:instructions and documents
+bruksanvisningar:manual
+bulleted_text:bulleted_text
+category:Category
+chassi:chassis
+chipset:chip
+cm:cm
+condition:Condition
+csv_file_row_index:csv_file_row_index
+currency:currency
+dedikerat grafikminne:dedicated graphics memory
+delat grafikminne:shared graphics memory
+description:Description
+description_html:description_html
+digital ljudutgång (koaxial):digital audio output (coaxial)
+digital ljudutgång (optisk):digital audio output (optical)
+digital zoom:digital zoom
+display:display
+displayport:DisplayPort
+djup:depth
+dockningsmöjlighet:docking possibility
+drifttid (upp till):operating time (up to)
+drivrutiner och mjukvara:drivers and software
+drivrutiner:drivers
+dvi:dvi
+effekt nätdel:power supply
+esata-portar:eSATA ports
+expansionskort:expansion
+färg:color
+fast nätverk:fixed network
+fast nätverksanslutning:fixed network connection
+fingeravtrycksläsare:fingerprint reader
+fjärrkontroll:remote control
+förinstallerade appar:preinstalled apps
+förpackningens innehåll:contents of the package
+garanti batteri:warranty battery
+garanti hã¥rdvara:warranty product
+garanti hårdvara:warranty hardware
+GB:GB
+geotaggning:geotag
+GHz:GHz
+grafik och ljud:graphics and sounds
+grafikkort:video card
+grafikkortsklass:video card class
+grafikprocessor:GPU
+hã¶jd:altitude
+hastighet hdd #1:speed hdd # 1
+hastighet hdd #2:speed hdd # 2
+hastighet hdd #3:speed hdd # 3
+hdmi:HDMI
+hdmi-version:HDMI version
+högtalare:speaker
+höjd:height
+hörlursutgång:headphone output
+id:id
+image_url:image_url
+inbyggd blixt:built-in flash
+inbyggd mikrofon:built-in microphone
+inbyggd navigation:built-in navigation
+inbyggda hã¶gtalare:built-in loudspeaker
+inbyggda högtalare:built-in speakers
+interna kortplatser:internal card slots
+ir:ir
+Ja:Yes
+kamera:camera
+kg:kg
+kommunikation:communication
+kontorsprogram:office applications
+laddning via usb:charging via usb
+lagring:storage
+lediga minnesplatser:free memory locations
+lediga pci x1:available pci x1
+lediga pci:available pci
+lediga pci-e x16:available pci-e x16
+ljudformat som stöds:supported audio formats
+Ljudingång:audio Input
+ljudkort:sound card
+Ljusstyrka på:Brightness of
+MagSafe:MagSafe
+main:main
+mån:month
+manual:manual
+manualer och dokumentation:manuals and documentation
+material:material
+max fps vid inspelning:max fps at recording
+max turbo:max turbo
+max upplösning stillbild:max resolution still image
+max upplösning video:max resolution video
+maximal upplösning:maximum resolution
+maximalt minne:maximum memory
+MB:MB
+MHz:MHz
+mikrofoningång:microphone
+minne och lagring:memory and storage
+minne som ingår:memory included
+minne:memory
+minneshastighet:memory speed
+minneskortläsare:memory card reader
+minneskortstorlek (max):memory card size (max)
+minnesplatser:memory
+minnesstorlek:memory size
+minnestyp:memory type
+mjukvara:software
+mm:mm
+modell:model
+multi-touch:multi-touch
+mus:mouse
+Nej:No
+numerisk sifferdel:numerical numeral
+operativsystem:OS
+optisk enhet:optical unit
+övriga anslutningar:other connections
+Övriga funktioner:Other Features
+övriga programvaror:other software
+övrigt:Other
+pci x1:pci x1
+pci:pci
+pci-e x16:pci-e x16
+pekdon:pointing device
+pivot-funktion:pivot-function
+price:price
+primär hårddiskstorlek:primary hard drive size
+primär hårddisktyp:primary hard drive type
+processor:processor
+processormodell:processor model
+processorserie:processor series
+produktblad (engelskt):product sheet (English)
+produktblad:product sheet
+produktsupport:product support
+ram-minne:RAM memory
+rating_value:RATING_VALUE
+reptålig:scratch
+rj45:RJ45
+rmp:rpm
+sekundär hårddiskstorlek:secondary hard drive size
+sekundär hårddisktyp:secondary hard drive type
+skärmstorlek:screen size
+skärmteknik:screen technology
+skärmtyp:screen type
+skärmupplösning:screen resolution
+skärmyta:screen surface
+snabbstartsguide:Quick Start guide
+Specialfunktioner:Special Features
+st:st
+stöd för 3d:support for 3d
+stöd för ip-telefoni:support for IP telephony
+stöd för kensingtonlås:support for kensington lock
+stöd för nfc:support for nfc
+stöd för röstsamtal:support for voice calls
+Styrplatta:trackpad
+sub_1:sub_1
+sub_2:sub_2
+subwoofer:subwoofer
+support och garanti:support and warranty
+supportnummer:support number
+system on chip (soc):system on chip (soc)
+tangentbord:keyboard
+technical_specifications:technical_specifications
+tertiär hårddiskstorlek:tertiary hard drive size
+tertiär hårddisktyp:tertiary hard drive type
+thunderbolt:thunderbolt
+thunderbolt 2:thunderbolt 2
+thunderbolt 3:thunderbolt 3
+thunderbolt:thunderbolt
+tillv art nr:also available in Art
+tillverkare:manufacturer
+tillverkarens artikelnummer:Manufacturer Part Number
+tim:hour
+title:title
+touchskärm:touch screen
+touchteknik:touch technology
+trådlöst nätverk:Wireless Network
+tv-mottagare:televisions
+typ av mus:type of mouse
+typ av sim-kort:type of sim card
+typ av tangentbord:type of keyboard
+typ av usb-anslutning:kind of usb connection
+upplösning främre kamera:resolution front camera
+upplösning stillbild:resolution still image
+upplösning video:resolution video
+url:url
+usb 20-portar:usb 20 ports
+usb 30-portar:usb 30 ports
+usb 31-portar:usb 31 ports
+valbara språk:selectable languages
+vga:vga
+vikt:weight
+virusskydd:Virus
+webbkamera:Cam
+widi:WiDi
